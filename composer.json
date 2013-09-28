@@ -1,0 +1,20 @@
+{
+    "name": "tophsic/rotate-wallpaper",
+    "description": "Rotate my Ubuntu wallpapers from my Flickr account",
+    "license": "MIT",
+    "require": {
+        "symfony/console": "2.3.*@dev",
+        "guzzle/guzzle": "3.7.*@dev",
+        "guzzle/http": "3.7.*@dev",
+        "guzzle/plugin-oauth": "3.7.*@dev"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "scripts": {
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
